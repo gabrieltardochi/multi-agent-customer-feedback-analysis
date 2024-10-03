@@ -1,0 +1,16 @@
+python-dotenv
+numpy
+pandas
+openpyxl
+jupyter
+ipykernel
+langchain
+langchain-openai
+openai
+transformers
+matplotlib
+fastparquet
+langgraph
+langchain_community
+langchain_core
+tavily-python

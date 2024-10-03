@@ -1,0 +1,525 @@
+{
+    "statistics all": [
+        {
+            "number of opinions": 442,
+            "percentage positive sentiment": 0.74,
+            "percentage negative sentiment": 0.26,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 0.48
+        }
+    ],
+    "statistics quarter": [
+        {
+            "quarter": "2023Q1",
+            "number of opinions": 98,
+            "percentage positive sentiment": 0.76,
+            "percentage negative sentiment": 0.24,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 0.51
+        },
+        {
+            "quarter": "2023Q2",
+            "number of opinions": 114,
+            "percentage positive sentiment": 0.71,
+            "percentage negative sentiment": 0.29,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 0.42
+        },
+        {
+            "quarter": "2023Q3",
+            "number of opinions": 116,
+            "percentage positive sentiment": 0.71,
+            "percentage negative sentiment": 0.29,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 0.41
+        },
+        {
+            "quarter": "2023Q4",
+            "number of opinions": 114,
+            "percentage positive sentiment": 0.78,
+            "percentage negative sentiment": 0.22,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 0.56
+        }
+    ],
+    "statistics category": [
+        {
+            "category": "delivery",
+            "number of opinions": 221,
+            "percentage positive sentiment": 0.48,
+            "percentage negative sentiment": 0.52,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": -0.05
+        },
+        {
+            "category": "product quality",
+            "number of opinions": 221,
+            "percentage positive sentiment": 1.0,
+            "percentage negative sentiment": 0.0,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 1.0
+        }
+    ],
+    "statistics quarter category": [
+        {
+            "quarter": "2023Q1",
+            "category": "delivery",
+            "number of opinions": 49,
+            "percentage positive sentiment": 0.51,
+            "percentage negative sentiment": 0.49,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 0.02
+        },
+        {
+            "quarter": "2023Q1",
+            "category": "product quality",
+            "number of opinions": 49,
+            "percentage positive sentiment": 1.0,
+            "percentage negative sentiment": 0.0,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 1.0
+        },
+        {
+            "quarter": "2023Q2",
+            "category": "delivery",
+            "number of opinions": 57,
+            "percentage positive sentiment": 0.42,
+            "percentage negative sentiment": 0.58,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": -0.16
+        },
+        {
+            "quarter": "2023Q2",
+            "category": "product quality",
+            "number of opinions": 57,
+            "percentage positive sentiment": 1.0,
+            "percentage negative sentiment": 0.0,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 1.0
+        },
+        {
+            "quarter": "2023Q3",
+            "category": "delivery",
+            "number of opinions": 58,
+            "percentage positive sentiment": 0.41,
+            "percentage negative sentiment": 0.59,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": -0.17
+        },
+        {
+            "quarter": "2023Q3",
+            "category": "product quality",
+            "number of opinions": 58,
+            "percentage positive sentiment": 1.0,
+            "percentage negative sentiment": 0.0,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 1.0
+        },
+        {
+            "quarter": "2023Q4",
+            "category": "delivery",
+            "number of opinions": 57,
+            "percentage positive sentiment": 0.56,
+            "percentage negative sentiment": 0.44,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 0.12
+        },
+        {
+            "quarter": "2023Q4",
+            "category": "product quality",
+            "number of opinions": 57,
+            "percentage positive sentiment": 1.0,
+            "percentage negative sentiment": 0.0,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 1.0
+        }
+    ],
+    "statistics category aspect": [
+        {
+            "category": "delivery",
+            "aspect": "delivery",
+            "number of opinions": 221,
+            "percentage positive sentiment": 0.48,
+            "percentage negative sentiment": 0.52,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": -0.05
+        },
+        {
+            "category": "product quality",
+            "aspect": "product",
+            "number of opinions": 221,
+            "percentage positive sentiment": 1.0,
+            "percentage negative sentiment": 0.0,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 1.0
+        }
+    ],
+    "statistics quarter category aspect": [
+        {
+            "quarter": "2023Q1",
+            "category": "delivery",
+            "aspect": "delivery",
+            "number of opinions": 49,
+            "percentage positive sentiment": 0.51,
+            "percentage negative sentiment": 0.49,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 0.02
+        },
+        {
+            "quarter": "2023Q1",
+            "category": "product quality",
+            "aspect": "product",
+            "number of opinions": 49,
+            "percentage positive sentiment": 1.0,
+            "percentage negative sentiment": 0.0,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 1.0
+        },
+        {
+            "quarter": "2023Q2",
+            "category": "delivery",
+            "aspect": "delivery",
+            "number of opinions": 57,
+            "percentage positive sentiment": 0.42,
+            "percentage negative sentiment": 0.58,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": -0.16
+        },
+        {
+            "quarter": "2023Q2",
+            "category": "product quality",
+            "aspect": "product",
+            "number of opinions": 57,
+            "percentage positive sentiment": 1.0,
+            "percentage negative sentiment": 0.0,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 1.0
+        },
+        {
+            "quarter": "2023Q3",
+            "category": "delivery",
+            "aspect": "delivery",
+            "number of opinions": 58,
+            "percentage positive sentiment": 0.41,
+            "percentage negative sentiment": 0.59,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": -0.17
+        },
+        {
+            "quarter": "2023Q3",
+            "category": "product quality",
+            "aspect": "product",
+            "number of opinions": 58,
+            "percentage positive sentiment": 1.0,
+            "percentage negative sentiment": 0.0,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 1.0
+        },
+        {
+            "quarter": "2023Q4",
+            "category": "delivery",
+            "aspect": "delivery",
+            "number of opinions": 57,
+            "percentage positive sentiment": 0.56,
+            "percentage negative sentiment": 0.44,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 0.12
+        },
+        {
+            "quarter": "2023Q4",
+            "category": "product quality",
+            "aspect": "product",
+            "number of opinions": 57,
+            "percentage positive sentiment": 1.0,
+            "percentage negative sentiment": 0.0,
+            "percentage neutral sentiment": 0.0,
+            "average sentiment score": 1.0
+        }
+    ],
+    "opinion statistics quarter category": [
+        {
+            "quarter": "2023Q1",
+            "category": "delivery",
+            "number of distinct opinions": 2,
+            "top1 opinion": "fast",
+            "top1 opinion count": 25,
+            "top1 opinion percentage": 0.51,
+            "top2 opinion": "late",
+            "top2 opinion count": 24,
+            "top2 opinion percentage": 0.49
+        },
+        {
+            "quarter": "2023Q1",
+            "category": "product quality",
+            "number of distinct opinions": 2,
+            "top1 opinion": "good",
+            "top1 opinion count": 25,
+            "top1 opinion percentage": 0.51,
+            "top2 opinion": "great",
+            "top2 opinion count": 24,
+            "top2 opinion percentage": 0.49
+        },
+        {
+            "quarter": "2023Q2",
+            "category": "delivery",
+            "number of distinct opinions": 2,
+            "top1 opinion": "late",
+            "top1 opinion count": 33,
+            "top1 opinion percentage": 0.58,
+            "top2 opinion": "fast",
+            "top2 opinion count": 24,
+            "top2 opinion percentage": 0.42
+        },
+        {
+            "quarter": "2023Q2",
+            "category": "product quality",
+            "number of distinct opinions": 2,
+            "top1 opinion": "great",
+            "top1 opinion count": 33,
+            "top1 opinion percentage": 0.58,
+            "top2 opinion": "good",
+            "top2 opinion count": 24,
+            "top2 opinion percentage": 0.42
+        },
+        {
+            "quarter": "2023Q3",
+            "category": "delivery",
+            "number of distinct opinions": 2,
+            "top1 opinion": "late",
+            "top1 opinion count": 34,
+            "top1 opinion percentage": 0.59,
+            "top2 opinion": "fast",
+            "top2 opinion count": 24,
+            "top2 opinion percentage": 0.41
+        },
+        {
+            "quarter": "2023Q3",
+            "category": "product quality",
+            "number of distinct opinions": 2,
+            "top1 opinion": "great",
+            "top1 opinion count": 34,
+            "top1 opinion percentage": 0.59,
+            "top2 opinion": "good",
+            "top2 opinion count": 24,
+            "top2 opinion percentage": 0.41
+        },
+        {
+            "quarter": "2023Q4",
+            "category": "delivery",
+            "number of distinct opinions": 2,
+            "top1 opinion": "fast",
+            "top1 opinion count": 32,
+            "top1 opinion percentage": 0.56,
+            "top2 opinion": "late",
+            "top2 opinion count": 25,
+            "top2 opinion percentage": 0.44
+        },
+        {
+            "quarter": "2023Q4",
+            "category": "product quality",
+            "number of distinct opinions": 2,
+            "top1 opinion": "good",
+            "top1 opinion count": 32,
+            "top1 opinion percentage": 0.56,
+            "top2 opinion": "great",
+            "top2 opinion count": 25,
+            "top2 opinion percentage": 0.44
+        }
+    ],
+    "opinion statistics category aspect sentiment": [
+        {
+            "category": "delivery",
+            "aspect": "delivery",
+            "sentiment": "negative",
+            "number of distinct opinions": 1,
+            "top1 opinion": "late",
+            "top1 opinion count": 116,
+            "top1 opinion percentage": 1.0,
+            "top2 opinion": NaN,
+            "top2 opinion count": NaN,
+            "top2 opinion percentage": NaN
+        },
+        {
+            "category": "delivery",
+            "aspect": "delivery",
+            "sentiment": "positive",
+            "number of distinct opinions": 1,
+            "top1 opinion": "fast",
+            "top1 opinion count": 105,
+            "top1 opinion percentage": 1.0,
+            "top2 opinion": NaN,
+            "top2 opinion count": NaN,
+            "top2 opinion percentage": NaN
+        },
+        {
+            "category": "product quality",
+            "aspect": "product",
+            "sentiment": "positive",
+            "number of distinct opinions": 2,
+            "top1 opinion": "great",
+            "top1 opinion count": 116,
+            "top1 opinion percentage": 0.52,
+            "top2 opinion": "good",
+            "top2 opinion count": 105.0,
+            "top2 opinion percentage": 0.48
+        }
+    ],
+    "opinion statistics quarter category aspect sentiment": [
+        {
+            "quarter": "2023Q1",
+            "category": "delivery",
+            "aspect": "delivery",
+            "sentiment": "negative",
+            "number of distinct opinions": 1,
+            "top1 opinion": "late",
+            "top1 opinion count": 24,
+            "top1 opinion percentage": 1.0,
+            "top2 opinion": NaN,
+            "top2 opinion count": NaN,
+            "top2 opinion percentage": NaN
+        },
+        {
+            "quarter": "2023Q1",
+            "category": "delivery",
+            "aspect": "delivery",
+            "sentiment": "positive",
+            "number of distinct opinions": 1,
+            "top1 opinion": "fast",
+            "top1 opinion count": 25,
+            "top1 opinion percentage": 1.0,
+            "top2 opinion": NaN,
+            "top2 opinion count": NaN,
+            "top2 opinion percentage": NaN
+        },
+        {
+            "quarter": "2023Q1",
+            "category": "product quality",
+            "aspect": "product",
+            "sentiment": "positive",
+            "number of distinct opinions": 2,
+            "top1 opinion": "good",
+            "top1 opinion count": 25,
+            "top1 opinion percentage": 0.51,
+            "top2 opinion": "great",
+            "top2 opinion count": 24.0,
+            "top2 opinion percentage": 0.49
+        },
+        {
+            "quarter": "2023Q2",
+            "category": "delivery",
+            "aspect": "delivery",
+            "sentiment": "negative",
+            "number of distinct opinions": 1,
+            "top1 opinion": "late",
+            "top1 opinion count": 33,
+            "top1 opinion percentage": 1.0,
+            "top2 opinion": NaN,
+            "top2 opinion count": NaN,
+            "top2 opinion percentage": NaN
+        },
+        {
+            "quarter": "2023Q2",
+            "category": "delivery",
+            "aspect": "delivery",
+            "sentiment": "positive",
+            "number of distinct opinions": 1,
+            "top1 opinion": "fast",
+            "top1 opinion count": 24,
+            "top1 opinion percentage": 1.0,
+            "top2 opinion": NaN,
+            "top2 opinion count": NaN,
+            "top2 opinion percentage": NaN
+        },
+        {
+            "quarter": "2023Q2",
+            "category": "product quality",
+            "aspect": "product",
+            "sentiment": "positive",
+            "number of distinct opinions": 2,
+            "top1 opinion": "great",
+            "top1 opinion count": 33,
+            "top1 opinion percentage": 0.58,
+            "top2 opinion": "good",
+            "top2 opinion count": 24.0,
+            "top2 opinion percentage": 0.42
+        },
+        {
+            "quarter": "2023Q3",
+            "category": "delivery",
+            "aspect": "delivery",
+            "sentiment": "negative",
+            "number of distinct opinions": 1,
+            "top1 opinion": "late",
+            "top1 opinion count": 34,
+            "top1 opinion percentage": 1.0,
+            "top2 opinion": NaN,
+            "top2 opinion count": NaN,
+            "top2 opinion percentage": NaN
+        },
+        {
+            "quarter": "2023Q3",
+            "category": "delivery",
+            "aspect": "delivery",
+            "sentiment": "positive",
+            "number of distinct opinions": 1,
+            "top1 opinion": "fast",
+            "top1 opinion count": 24,
+            "top1 opinion percentage": 1.0,
+            "top2 opinion": NaN,
+            "top2 opinion count": NaN,
+            "top2 opinion percentage": NaN
+        },
+        {
+            "quarter": "2023Q3",
+            "category": "product quality",
+            "aspect": "product",
+            "sentiment": "positive",
+            "number of distinct opinions": 2,
+            "top1 opinion": "great",
+            "top1 opinion count": 34,
+            "top1 opinion percentage": 0.59,
+            "top2 opinion": "good",
+            "top2 opinion count": 24.0,
+            "top2 opinion percentage": 0.41
+        },
+        {
+            "quarter": "2023Q4",
+            "category": "delivery",
+            "aspect": "delivery",
+            "sentiment": "negative",
+            "number of distinct opinions": 1,
+            "top1 opinion": "late",
+            "top1 opinion count": 25,
+            "top1 opinion percentage": 1.0,
+            "top2 opinion": NaN,
+            "top2 opinion count": NaN,
+            "top2 opinion percentage": NaN
+        },
+        {
+            "quarter": "2023Q4",
+            "category": "delivery",
+            "aspect": "delivery",
+            "sentiment": "positive",
+            "number of distinct opinions": 1,
+            "top1 opinion": "fast",
+            "top1 opinion count": 32,
+            "top1 opinion percentage": 1.0,
+            "top2 opinion": NaN,
+            "top2 opinion count": NaN,
+            "top2 opinion percentage": NaN
+        },
+        {
+            "quarter": "2023Q4",
+            "category": "product quality",
+            "aspect": "product",
+            "sentiment": "positive",
+            "number of distinct opinions": 2,
+            "top1 opinion": "good",
+            "top1 opinion count": 32,
+            "top1 opinion percentage": 0.56,
+            "top2 opinion": "great",
+            "top2 opinion count": 25.0,
+            "top2 opinion percentage": 0.44
+        }
+    ]
+}
