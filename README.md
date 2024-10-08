@@ -1,5 +1,23 @@
 # multi-agent-customer-feedback-analysis
-A multi-agent system utilizing LLMs, Langchain, and Langgraph to create an intelligent chatbot that processes customer feedback and generates detailed reports from the analysis.
+A multi-agent system utilizing LLMs to create an intelligent chatbot that processes customer feedback and generates detailed reports from the analysis.
+
+# Solution
+
+We can divide the final solution into three major components. Below is a high-level overview of the final solution architecture.
+
+![architecture](docs/solution_arch.png)
+
+**1. Aspect-based Sentiment Analysis with Category and Opinion Extraction LLM**
+
+![nlp](docs/text_mining.png)
+
+**2. Statistics Calculation**
+
+![stats calc](docs/stats_calc.png)
+
+**3. Role-playing AI Analysts Reports**
+
+![ai analysts](docs/ai_analysts.png)
 
 # Development
 
